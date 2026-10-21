@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+data/raw/
+data/chroma/
+
+credentials.json
+token.json
+
+.pytest_cache/
+.coverage
+dist/
+build/
